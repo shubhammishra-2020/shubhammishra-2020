@@ -3,7 +3,7 @@ I am a Junior at San Jose State majoring in Computer Engineering. I am intereste
 ### Stats
 
 
-[![Top Langs](https://raw.githubusercontent.com/shubhammishra-2020/github-stats/master/generated/overview.svg) 
+[![Stats]](https://raw.githubusercontent.com/shubhammishra-2020/github-stats/master/generated/overview.svg) 
 
 ### Current Projects
 
