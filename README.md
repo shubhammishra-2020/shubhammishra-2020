@@ -2,7 +2,8 @@
 I am a Junior at San Jose State majoring in Computer Engineering. I am interested in gaining experience in Embedded Software Engineering for organizations looking to use my experience and skills to progress the future in Electric Vehicles, Autonomy, Space Exploration, . 
 ### Stats
 
-![](https://raw.githubusercontent.com/shubhammishra-2020/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+[![Top Langs](https://raw.githubusercontent.com/shubhammishra-2020/github-stats/master/generated/overview.svg) 
 
 ### Current Projects
 
