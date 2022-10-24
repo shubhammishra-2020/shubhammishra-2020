@@ -3,7 +3,16 @@ I am a Junior at San Jose State majoring in Computer Engineering. I am intereste
 
 ### Skills
 ```
-string programmingLang[] = {"C", "C++", "Python", "HTML/CSS"} 
+string programmingLang[] = {"C", "C++", "Python", "Postgre SQL", "HTML/CSS"};
+
+string cloud[] = {"Amazon Web Services (AWS)"};
+
+string frameworks[] = {"Django", "Flask", "Flutter"};
+
+string software[] = {"Microsoft SharePoint", "Micorosft Visio", "pgAdmin"};
+
+string collabTools[] = {"GitHub", "Microsoft Teams", "Slack", "Trello"};
+
 ```
 
 ### Current Projects
