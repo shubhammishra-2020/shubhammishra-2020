@@ -8,7 +8,7 @@ I am a Junior at San Jose State majoring in Computer Engineering. I am intereste
 * **Dashboard** - Designing a dashbord user interface that can be intuitive to the driver. Using the CAN IDs on the car, we are programming LEDs to show in real time the RPM, battery state, and any safety faults. In addition, we are developing an interface which will allow the driver to manipulate how the thottle, regen, and brakes act to their preference. 
 
 <i> California Department of Insurance </i>
-* **Asset Inventory** - Gathering data of the Information Technology assets to reduce cost in buying redundant equipment and tracks out of date equipment that can increase the exposure of the department's data. Creating an internal SharePoint site to display the inventory and design procedures that enables members of the department to make changes themselves. 
+* **Asset Inventory** - Gathering data of the Information Technology assets to reduce cost in buying redundant equipment and tracks out of date equipment that can increase the exposure of the department's data. Creating an internal SharePoint site to display the inventory and designing procedures that enables members of the department to easily make changes or updates that can be useful to other staff members. 
 
 ### Skills
 ```
