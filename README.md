@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Page!
-I am a Junior at San Jose State majoring in Computer Engineering. I am interested in gaining experience in Embedded Software Engineering for organizations looking to progress the future in Electric Vehicles, Autonomy, Space Exploration, . 
+I am a Junior at San Jose State majoring in Computer Engineering. I am interested in gaining experience in Embedded Software Engineering for organizations looking to use my experience and skills to progress the future in Electric Vehicles, Autonomy, Space Exploration, . 
 
 ### Current Projects
 
