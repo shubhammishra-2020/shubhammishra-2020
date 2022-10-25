@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Page!
-I am a Junior at San Jose State majoring in Computer Engineering. I am interested in bring my skills, experience, and ideas to an Embedded Software Engineering role. 
+I am a Junior at San Jose State majoring in Computer Engineering. I am interested in bringing my skills, experience, and ideas to an Embedded Software Engineering role. 
 
 ### Current Projects
 
