@@ -22,7 +22,7 @@ string collabTools[] = {"GitHub", "Microsoft Teams", "Slack", "Trello"};
 **Amazon Web Services Certified Cloud Practitioner**  - Expires June 2025
 
 ### Connect With Me
-[Email](shubham.mishra2021@outlook.com)
+[Email](mailto:shubham.mishra2021@outlook.com)
 <br>
 [Linkedin](https://www.linkedin.com/in/shubham-mishra-dev/)
  
